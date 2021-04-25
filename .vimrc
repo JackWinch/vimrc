@@ -34,5 +34,8 @@ set smartcase           " Enables smart case-sensitive search
 set confirm             " Enable confirm save prompt
 set pastetoggle=<F2>    " Bing <F2> to paste toggle function
 
+" Tab Settings
+set autoindent		" Enable auto-indentation
+
 " Spell Check Settings
 set spell spelllang=en_gb	" Enable spell checking (EN GB)
